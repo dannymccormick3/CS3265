@@ -8,7 +8,8 @@ Project For Database Management Systems Class
 Gamers currently lack effective methods of locally organizing. Most gaming communities are distributed across the country or world and there is not an effective way of finding local gaming events and connecting with other gamers in the area. It is similarly hard for event organizers (campus organizations, city committees, etc.) to keep up with what games are popular in their area.
 
 Our web app will address this problem by providing a platform for gamers to connect to other gamers in their area and host events for their community. It will provide information about the number of gamers in area, what games they are playing, and events that are being held.
-Points
+
+### Points
 
 *	Must allow users to create profiles with name, address, country, age, gender, description, and what games they are interested in playing
 *	Must allow users to delete their own profiles
